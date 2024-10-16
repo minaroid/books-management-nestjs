@@ -47,5 +47,5 @@ This repository contains a Books Management application built with NestJS and Ty
 
  ### Note 
 
- All books apis needs admin user, to create it you need to switch your user role from the db and login again to get the admin access token.
+ All books POST/PUT apis needs admin user, to create it you need to switch your user role from the db and login again to get the admin access token.
 
